@@ -15,6 +15,7 @@ The variables and explanations can be found at [this readme](https://github.com/
 
 ### Observations:
 - Highest outbound transfer of the bundesliga was that of Ousmane Dembele; worth 140m euros in 2017/2018, Dortmund to FCB
+- The highest inbound transfer however was Lucas Hernández for 80m euros in 2019/2022, Athletico Madrid to Bayern Munich
 - Youngest transer in the league was Marcel Geißler	in 1993/1994, 9yo
 - The mean transfer fee is approximately 1.8m euros, while the median is 0.175000 or 175.000 euros
 - Highest occuring age group is 21 to 30
